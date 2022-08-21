@@ -5,6 +5,8 @@ harrylarimerjr@gmail.com<br />
 Created as part of the Odin Project cirriculum<br />
 www.theodinproject.com<br />
 
+A live demo can be found [here](https://harrylarimerjr.github.io/etch-a-sketch/).
+
 This is a simple etch-a-sketch program developed using HTML, CSS, and
 vanilla JavaScript. Dragging the mouse across the grid will change
 the background color of the underlying div. The grid and all divs

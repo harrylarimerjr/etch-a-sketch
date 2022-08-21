@@ -1,9 +1,9 @@
 # etch-a-sketch
 
-Created by Harry Larimer
-harrylarimerjr@gmail.com
-Created as part of the Odin Project cirriculum
-www.theodinproject.com
+Created by Harry Larimer<br />
+harrylarimerjr@gmail.com<br />
+Created as part of the Odin Project cirriculum<br />
+www.theodinproject.com<br />
 
 This is a simple etch-a-sketch program developed using HTML, CSS, and
 vanilla JavaScript. Dragging the mouse across the grid will change
